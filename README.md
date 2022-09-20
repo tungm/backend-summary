@@ -73,6 +73,9 @@
   **Transaction isolation levels** and **concurrency problems**? Explain and sample for each problem
 
   **DB and query design for high concurrent system** (Hotel concurrently booking problem in DB)
+
+  **OLTP and OLAP**
+
   (Further item: No-SQL DB, Graph DB)
 
 ### Coding/languages specific
@@ -98,6 +101,16 @@
 
   **Golang Go Rountine memory and I/O advantages?**
 
+  **Unit testing**
+  - Coverage rate
+  - Best practice (cover all core functionallity of item)
+
   **High level vs low level languages? Interpreted vs compiled languages?**
 
   **Pointer?**
+
+### Other/To be classified items
+  Session vs cookie
+  Token based vs session based authenticate
+  Stateless vs stateful and scalability
+  What happens when any thing in a system failed?
