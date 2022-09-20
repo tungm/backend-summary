@@ -110,7 +110,7 @@
   **Pointer?**
 
 ### Other/To be classified items
-  Session vs cookie
-  Token based vs session based authenticate
-  Stateless vs stateful and scalability
-  What happens when any thing in a system failed?
+  - Session vs cookie
+  - Token based vs session based authenticate
+  - Stateless vs stateful and scalability
+  - What happens when any thing in a system failed?
